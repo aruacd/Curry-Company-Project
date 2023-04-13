@@ -185,7 +185,6 @@ df1 = clean_code(df)
 # Barra Lateral
 # ================================================================
 
-#image_path = 'logo2.png'
 image = Image.open('logo2.png')
 st.sidebar.image( image, width=120)
 
